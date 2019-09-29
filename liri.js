@@ -6,16 +6,19 @@ var moment = require('moment');
 
 var Spotify = require('node-spotify-api');
 
+var fs = require('fs');
+
 var keys = require("./keys.js");
 
 var spotify = new Spotify(keys.spotify);
 
 var command;
-//var search = process.argv[3];
-var search = process.argv[3];
+var search;
 
 var concerts;
 var spotifyData;
+
+var randomParameters;
 
 
 switch (process.argv[2]) {
@@ -54,9 +57,48 @@ switch (process.argv[2]) {
                 movies();
         }
         break;
+    case "do-what-it-says":
+        command = process.argv[2];
+        random();
+        break;
     default:
         console.log("Sorry, invalid command. Try again.")
         break;
+}
+
+function random() {
+    fs.readFile('random.txt', "utf8", function (error, data) {
+        if (error) {
+            return console.log(error);
+        }
+        randomParameters = data.split(",");
+        renderRandom()
+    })
+}
+
+function renderRandom() {
+    for (i = 0; i < randomParameters.length; i++) {
+        if (i !== 0 && (i % 2 !== 0)) {
+            commandIndex = randomParameters[i - 1];
+            searchIndex = randomParameters[i];
+            switch (commandIndex) {
+                case "spotify-this-song":
+                    search = searchIndex;
+                    spotifyData();
+                    break;
+                case "movie-this":
+                    search = searchIndex;
+                    movies();
+                    break;
+                case "concert-this":
+                    search = searchIndex;
+                    concert();
+                    break;
+                default:
+                    console.log("Invalid parameter in random.txt document");
+            }
+        }
+    }
 }
 
 function movies() {
@@ -98,7 +140,6 @@ function spotifyData() {
             return console.log('Error occurred: ' + err);
         }
         spotifyData = data.tracks.items;
-        console.log(spotifyData[0].artists);
         renderSpotifyData();
     });
 }
