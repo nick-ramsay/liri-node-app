@@ -82,13 +82,13 @@ function renderRandom() {
             commandIndex = randomParameters[i - 1];
             searchIndex = randomParameters[i];
             switch (commandIndex) {
-                case "spotify-this-song":
-                    search = searchIndex;
-                    spotifyData();
-                    break;
                 case "movie-this":
                     search = searchIndex;
                     movies();
+                    break;
+                case "spotify-this-song":
+                    search = searchIndex;
+                    spotifyData();
                     break;
                 case "concert-this":
                     search = searchIndex;
@@ -112,7 +112,6 @@ function movies() {
 }
 
 function renderMovies() {
-    var separator = "--------------------------------------------";
     var ratings = movies.Ratings;
     var rtRating = "Not Rated";
     for (i = 0; i < ratings.length; i++) {
@@ -122,16 +121,30 @@ function renderMovies() {
                 break;
         }
     }
+    var separator = "--------------------------------------------";
+    var movieTitle = "Title: " + movies.Title;
+    var movieYear = "Year: " + movies.Year;
+    var movieIMBDRating = "IMDB Rating: " + movies.imdbRating;
+    var movieRtRating = "Rotten Tomatoes Rating: " + rtRating;
+    var movieCountry = "Country of Production: " + movies.Country;
+    var movieLanguage = "Language: " + movies.Language;
+    var moviePlot = "Plot: " + movies.Plot;
+    var movieActors = "Actors: " + movies.Actors;
+
     console.log(separator);
-    console.log("Title: " + movies.Title);
-    console.log("Year: " + movies.Year);
-    console.log("IMDB Rating: " + movies.imdbRating);
-    console.log("Rotten Tomatoes Rating: " + rtRating);
-    console.log("Country of Prodution: " + movies.Country);
-    console.log("Language: " + movies.Language);
-    console.log("Plot: " + movies.Plot);
-    console.log("Actors: " + movies.Actors);
+    console.log(movieTitle);
+    console.log(movieYear);
+    console.log(movieIMBDRating);
+    console.log(movieRtRating);
+    console.log(movieCountry);
+    console.log(movieLanguage);
+    console.log(moviePlot);
+    console.log(movieActors);
     console.log(separator);
+
+    fs.appendFile('log.txt', separator + '\n' + 'Command: "' + command + '" / ' + 'Search Term: "' + search + '"\n' + movieTitle + '\n' + movieYear + '\n' + movieIMBDRating + '\n' + movieRtRating + '\n' + movieCountry + '\n' + movieLanguage +'\n' + moviePlot + '\n' + movieActors + '\n', function (err) {
+        if (err) throw err;
+    })
 }
 
 function spotifyData() {
@@ -147,12 +160,19 @@ function spotifyData() {
 function renderSpotifyData() {
     for (i = 0; i < spotifyData.length; i++) {
         var separator = "--------------------------------------------";
+        var spotifyArtist = "Artist(s): " + spotifyData[i].artists[0].name;
+        var spotifySong = "Song: " + spotifyData[i].name;
+        var spotifyAlbum = "Album: " + spotifyData[i].album.name;
+        var spotifyURL = "Preview URL: " + spotifyData[i].preview_url;
         console.log(separator);
-        console.log("Artist(s): " + spotifyData[i].artists[0].name);
-        console.log("Song: " + spotifyData[i].name);
-        console.log("Album: " + spotifyData[i].album.name);
-        console.log("Preview URL: " + spotifyData[i].preview_url);
+        console.log(spotifyArtist);
+        console.log(spotifySong);
+        console.log(spotifyAlbum);
+        console.log(spotifyURL);
         console.log(separator);
+        fs.appendFile('log.txt', separator + '\n' + 'Command: "' + command + '" / ' + 'Search Term: "' + search + '"\n' + spotifyArtist + '\n' + spotifySong + '\n' + spotifyAlbum + '\n' + spotifyURL + '\n', function (err) {
+            if (err) throw err;
+        })
     }
 }
 //NOTE 1: Update so if search parameter is missing, it will specifically pick "The Sign" by Ace of Base.
@@ -171,10 +191,16 @@ function renderConcerts() {
     for (i = 0; i < concerts.length; i++) {
         var concertDate = new Date(concerts[i].datetime);
         var separator = "--------------------------------------------";
+        var concertVenue = "Venue: " + concerts[i].venue.name;
+        var concertLocation = "Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country;
+        var concertDate = "Concert Date: " + moment(concertDate).format('MM/DD/YYYY');
         console.log(separator);
-        console.log("Venue: " + concerts[i].venue.name);
-        console.log("Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country);
-        console.log("Concert Date: " + moment(concertDate).format('MM/DD/YYYY'));
+        console.log(concertVenue);
+        console.log(concertLocation);
+        console.log(concertDate);
         console.log(separator);
+        fs.appendFile('log.txt', separator + '\n' + 'Command: "' + command + '" / ' + 'Search Term: "' + search + '"\n' + concertVenue + '\n' + concertLocation + '\n' + concertDate+ '\n', function (err) {
+            if (err) throw err;
+        })
     }
 }
