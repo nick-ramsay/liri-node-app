@@ -24,31 +24,32 @@
 - The liri-node-app can execute four different functions. 
   - Three functions ("movie-this", "spotify-this-song", and "concert-this") are executed in Node.js by using a command as the first argument and then a search term as the second argument, in the form of a string. For example, the arguments used for finding results for the movie "Shawshank Redemption" are the following: 
   
-  '''
+  ```
   node liri.js movie-this "Shawshank Redemption"
-  '''
-  - The final function, "do-what-it-says", takes it's commands from the random.txt file. To execute the function, you only need one argument, "do-what-it-says":
-  '''
-  node liri.js do-what-it-says
-  '''
-   This file is comma delimited where odd positions indicate a command and even positions execute the search term to be used for the preceding command.
+  ```
+  - The final function, "do-what-it-says", takes it's commands from the random.txt file. This file is comma delimited where odd positions indicate a command and even positions execute the search term to be used for the preceding command.
 
   - Using following example of random.txt...
   
-  '''
+  ```
   spotify-this-song,Helter Skelter,movie-this,Shawshank Redemption,concert-this,Weezer
-  '''
+  ```
   - The three following functions will execute:
    - spotify-this-song will search for songs titled "Helter Skelter"
    - movie-this will search for movies titled "Shawshank Redemption"
    - concert-this will search for upcoming concerts from the band "Weezer"
+- To execute the function, you only need one argument, "do-what-it-says":
+  
+  ```
+  node liri.js do-what-it-says
+  ```
 
 - movie-this
-  1) Enter following command: node liri.js movie-this "[Movie Name]"
+  1) Enter following command: ```node liri.js movie-this "[Movie Name]"```
 
 
 - spotify-this-song
-  1) Enter following command: node liri.js movie-this "[Movie Name]"
+  1) Enter following command: ```node liri.js movie-this "[Movie Name]"```
 
 - concert-this
 
