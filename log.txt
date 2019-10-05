@@ -1,5 +1,6 @@
 --------------------------------------------
-Command: "movie-this" / Search Term: "Shawshank Redemption"
+Command: "do-what-it-says" / Search Term: "Weezer
+"
 Title: The Shawshank Redemption
 Year: 1994
 IMDB Rating: 9.3
@@ -8,3 +9,359 @@ Country of Production: USA
 Language: English
 Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
 Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Helter Skelter - Remastered 2009
+Album: The Beatles (Remastered)
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Rob Zombie
+Song: Helter Skelter
+Album: Helter Skelter
+Preview URL: https://p.scdn.co/mp3-preview/f61f5a99295fb77384dd699eda2daf4785c06029?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): U2
+Song: Helter Skelter - Live
+Album: Rattle And Hum
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Helter Skelter - 2018 Mix
+Album: The Beatles
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Bukshot
+Song: Let Us In (feat. Jelly Roll, Caskey, Rittz & Crucifix)
+Album: Helter Skelter: The Deluxe Edition
+Preview URL: https://p.scdn.co/mp3-preview/b289661064bb3ec5afff7979b31e827296d24016?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Paul McCartney
+Song: Sgt. Pepper's Lonely Hearts Club Band/Helter Skelter - Recorded At Abbey Road Studios, London
+Album: Spotify Singles: Paul McCartney Box Set
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Dana Fuchs
+Song: Helter Skelter - From "Across The Universe" Soundtrack
+Album: Across The Universe
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Mötley Crüe
+Song: Helter Skelter
+Album: Shout At The Devil
+Preview URL: https://p.scdn.co/mp3-preview/a05fc6179966f63da992b997a7c5a6f3aa1c014c?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Soundgarden
+Song: Helter Skelter - Live At Crosby Hall, Del Mar/1996
+Album: Live On I-5
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Being For The Benefit Of Mr Kite! / I Want You (She's So Heavy) / Helter Skelter
+Album: Love
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Helter Skelter - First Version / Take 2
+Album: The Beatles
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Bukshot
+Song: Survival of the Fittest (feat. I4NI & Irv Da Phenom)
+Album: Helter Skelter: The Deluxe Edition
+Preview URL: https://p.scdn.co/mp3-preview/3c3b63bfbe587766c9b0591d3b5b21366058aca0?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Helter Skelter - Second Version / Take 17
+Album: The Beatles
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Dana Fuchs
+Song: Helter Skelter - From "Across The Universe" Soundtrack
+Album: Across The Universe
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Siouxsie and the Banshees
+Song: Helter Skelter
+Album: The Scream
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Lucky Chops
+Song: Helter Skelter
+Album: Helter Skelter
+Preview URL: https://p.scdn.co/mp3-preview/b52415e8f832a0d7b4006033af417abc7da7730d?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): The Beatles
+Song: Helter Skelter - Anthology 3 Version
+Album: Anthology 3
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Lucky Chops
+Song: Helter Skelter
+Album: Walter - EP
+Preview URL: https://p.scdn.co/mp3-preview/a9affe794a754644aab0f691fe178b90616869fd?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Mötley Crüe
+Song: Helter Skelter
+Album: Carnival of Sins (Live)
+Preview URL: https://p.scdn.co/mp3-preview/b91f86dd564410954c3883fc1df79d8e12e7a80e?cid=b7412788afb5435b82babc7f906c63ab
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Artist(s): Pat Benatar
+Song: Helter Skelter
+Album: Precious Time
+Preview URL: null
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: UAB 50th Anniversary Concert
+Location: Birmingham, United States
+Concert Date: 10/18/2019
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Corona Capital
+Location: Mexico, Mexico
+Concert Date: 11/16/2019
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Innings Festival
+Location: Tempe, United States
+Concert Date: 03/01/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Location: Nuremberg, Germany
+Concert Date: 06/05/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Parkbühne Wuhlheide
+Location: Berlin, Germany
+Concert Date: 06/03/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Ippodromo San Siro
+Location: Milan, Italy
+Concert Date: 06/10/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Paris, France
+Concert Date: 06/13/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Firenze Rocks
+Location: Firenze, Italy
+Concert Date: 06/11/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Groningen, Netherlands
+Concert Date: 06/14/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer special guest
+Location: Antwerpen, Belgium
+Concert Date: 06/17/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Rock For People (single day, TBA)
+Location: Hradec Kralove, Czech Republic
+Concert Date: 06/18/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Wien, Austria
+Concert Date: 06/21/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Glasgow, United Kingdom
+Concert Date: 06/24/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: London, United Kingdom
+Concert Date: 06/26/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Huddersfield, United Kingdom
+Concert Date: 06/27/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: San Francisco, United States
+Concert Date: 07/21/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Location: Dublin 4, Ireland
+Concert Date: 06/29/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Seattle, United States
+Concert Date: 07/17/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: San Diego, United States
+Concert Date: 07/24/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Los Angeles, United States
+Concert Date: 07/25/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Commerce City, United States
+Concert Date: 07/28/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Houston, United States
+Concert Date: 08/01/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Miami Gardens, United States
+Concert Date: 08/05/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Dallas, United States
+Concert Date: 07/31/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Jacksonville, United States
+Concert Date: 08/06/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Atlanta, United States
+Concert Date: 08/08/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Minneapolis, United States
+Concert Date: 08/11/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Chicago, United States
+Concert Date: 08/13/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Location: Pittsburgh, United States
+Concert Date: 08/15/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Hershey, United States
+Concert Date: 08/16/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Location: Detroit, United States
+Concert Date: 08/19/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Washington, United States
+Concert Date: 08/21/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Toronto, Canada
+Concert Date: 08/24/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Location: New York, United States
+Concert Date: 08/22/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Philadelphia, United States
+Concert Date: 08/29/2020
+--------------------------------------------
+Command: "do-what-it-says" / Search Term: "Weezer
+"
+Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Location: Boston, United States
+Concert Date: 08/27/2020

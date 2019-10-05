@@ -43,17 +43,42 @@
   ```
   node liri.js do-what-it-says
   ```
-
+### Execution and Results
 - movie-this
   1) Enter following command: ```node liri.js movie-this "[Movie Name]"```
+  2) When "Shawshank Redemption" is used as search term, the following results can be expected:
+  - Console Log Results:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/shawshank_redemption_movie_results.jpg?raw=true)
+  - Results appended to log.txt file:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/shawshank_redemption_movie_log_txt.jpg?raw=true)
 
 
 - spotify-this-song
-  1) Enter following command: ```node liri.js movie-this "[Movie Name]"```
+  1) Enter following command: ```node liri.js spotify-this-song "[Song Name]"```
+  2) When "Helter Skelter" is used as search term, the following results can be expected:
+  - Console Log Results:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/helter_skelter_song_results.jpg?raw=true)
+  - Results appended to log.txt file:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/helter_skelter_song_log_txt.jpg?raw=true)
+
 
 - concert-this
+  1) Enter following command: ```node liri.js concert-this "[Band Name]"```
+  2) When "Weezer" is used as search term, the following results can be expected:
+  - Console Log Results:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/weezer_band_results.jpg?raw=true)
+  - Results appended to log.txt file:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/weezer_band_log_txt.jpg?raw=true)
 
 - do-what-it-says
+  1) Enter following command: ```node liri.js do-what-it-says```
+  2) When random.txt contains ```spotify-this-song,Helter Skelter,movie-this,Shawshank Redemption,concert-this,Weezer``` is used as search term, the following results can be expected:
+   - Console Log Results:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_results1.jpg?raw=true)
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_results2.jpg?raw=true)
+   - Results appended to log.txt file:
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt1.jpg?raw=true)
+  ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt2.jpg?raw=true)
 
 - These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -76,4 +101,4 @@
 
 
 ## Authors 
-- The liri-node-app was coded by Nick Ramsay.
+- Developer: Nick Ramsay (@nick-ramsay)
