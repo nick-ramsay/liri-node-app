@@ -12,6 +12,9 @@
 * Include screenshots, gifs or videos of the app functioning
 
 ### Prerequisites
+
+![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/dependent_packages.jpg?raw=true)
+
 * What things you need to install the software and how to install them
 * Give examples
 
