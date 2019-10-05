@@ -80,11 +80,6 @@
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt1.jpg?raw=true)
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt2.jpg?raw=true)
 
-- These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-- Give instructions on how to execute application
-- Include screenshots, gifs or videos of the app functioning
-
 ## Built With
 - The liri-node-app was built using Node.js and the following Node Package Manage modules:
 
