@@ -73,10 +73,10 @@
 - do-what-it-says
   1) Enter following command: ```node liri.js do-what-it-says```
   2) When random.txt contains ```spotify-this-song,Helter Skelter,movie-this,Shawshank Redemption,concert-this,Weezer``` is used as search term, the following results can be expected:
-   - Console Log Results:
+  - Console Log Results:
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_results1.jpg?raw=true)
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_results2.jpg?raw=true)
-   - Results appended to log.txt file:
+  - Results appended to log.txt file:
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt1.jpg?raw=true)
   ![Dependent Packages](https://github.com/nick-ramsay/readme-images/blob/master/liri-node-app/do_what_it_says_log_txt2.jpg?raw=true)
 
